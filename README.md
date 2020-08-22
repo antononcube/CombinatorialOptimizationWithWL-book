@@ -1,6 +1,7 @@
-# "Combinatorial Optimization with WL" book
+# "Combinatorial Optimization with Wolfram Language" book
 
-This repository has chapters, code, and organizational materials for the book "Combinatorial Optimization with WL".
+This repository has chapters, code, and organizational materials for the book 
+"Combinatorial Optimization with Wolfram Language".
 
 **The book is not finished yet -- it is a work in progress...**
 
